@@ -2,7 +2,8 @@
 const Home = ()=>{
 
     return(
-        <div className="bg-[##818cf8]">hola</div>
+        <div className="">hzdfholasfhs<div>dhfbjhdfb</div>
+        </div>
     )
 }
 
