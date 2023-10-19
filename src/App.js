@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App bg-gradient-to-b w-full from-emerald-600 bg-inhert">
+    <div className="App bg-gradient-to-b bg-cover w-full from-slate-600">
     <Home/>
     </div>
   );
