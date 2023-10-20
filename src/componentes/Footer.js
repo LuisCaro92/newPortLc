@@ -3,7 +3,7 @@
 const Footer =()=>{
 
     return  (
-        <div></div>
+        <div className="text-black flex items-center content-center justify-center">Todos los derechos reservados @Luis Caro</div>
     )
 };
 

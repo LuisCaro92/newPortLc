@@ -3,8 +3,8 @@ import Skill from "./Skill";
 const About =()=>{
 
     return (
-        <div>
-            sobre mi
+        <div className="mt-20">
+            sobre misfgjsfgj
             <Skill/>
         </div>
     )
