@@ -1,19 +1,23 @@
 import Dev from "./Dev";
 import Ux from "./Ux";
 
+const Projects = () => {
+  return (
+    <div className="">
+      <div>
+        <h1>Ux</h1>
+        <Ux />
+      </div>
 
-const Projects =()=>{
+      <div>
+        <h1>Developer</h1>
+         
+      <Dev />
+      </div>
 
-    return (
-        <div className="bg-cover"  style={{
-            backgroundImage:
-              'url("https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&w=600")',
-          }}>Proyectosqui
-
-            <Ux/>
-            <Dev/>
-        </div>
-    )
+     
+    </div>
+  );
 };
 
 export default Projects;
