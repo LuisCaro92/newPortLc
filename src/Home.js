@@ -1,7 +1,7 @@
 import About from "./componentes/About";
 //import Contact from "./componentes/Contact";
 //import Footer from "./componentes/Footer";
-//import Projects from "./componentes/Project/Projects";
+import Projects from "./componentes/Project/Projects";
 
 const Home = ()=>{
 
@@ -12,6 +12,7 @@ const Home = ()=>{
         <div className="">
           
             <About/>
+            <Projects/>
            
 
         </div>
