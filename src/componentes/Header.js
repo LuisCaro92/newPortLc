@@ -3,7 +3,11 @@ const Header = () => {
     <div className="shadow-2xl shadow-slate-300	w-full fixed top-0 left-0">
       <div className="sm:px-10 py-4 px-7 sm:flex justify-between items-center">
         <div className="flex text-3xl cursor-pointer items-center gap-2">
-          <span className="font-bold">Luis Caro </span>
+        <span class="ml-10 relative px-10 py-3 font-bold text-white group">
+            <span class="absolute inset-0 w-full h-full opacity-40 transition duration-300 ease-out transform -translate-x-2 -translate-y-2 bg-gray-300 group-hover:translate-x-0 group-hover:translate-y-0"></span>
+            <span class="absolute inset-0 w-full h-full border-4 border-white"></span>
+            <span class="relative">LUIS CARO</span>
+          </span>
         </div>
         <div className="flex pl-9 md:pl-0 font-semibold">
           <div className="w-7 h-7  right-8 top-6 cursor-pointer sm:hidden"></div>
