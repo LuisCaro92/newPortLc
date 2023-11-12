@@ -12,7 +12,7 @@ const About = () => {
             DESIGNER UX
           </h1>
 
-          <p className="text-start p-10 ml-80 mr-30 mt-15 font-semibold">
+          <p className="text-start p-6 ml-80 mr-30 mt-15 font-semibold">
             I AM A DEVELOPER AND UX DESIGNER ESTABLISHED IN CHILE. MY LACK OF
             WORK EXPERIENCE IN THIS NEW WORLD IS COMPENSATED WITH MY CREATIVITY
             AND AUTONOMY IN CONSULTING LEARNING. I LOVE THE SOFT DESIGN AND THE
